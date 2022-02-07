@@ -1,0 +1,12 @@
+C:\Users\Anjan\source\repos\TemparatureConverter\TemparatureConverter\bin\Debug\TemparatureConverter.exe.config
+C:\Users\Anjan\source\repos\TemparatureConverter\TemparatureConverter\bin\Debug\TemparatureConverter.exe
+C:\Users\Anjan\source\repos\TemparatureConverter\TemparatureConverter\bin\Debug\TemparatureConverter.pdb
+C:\Users\Anjan\source\repos\TemparatureConverter\TemparatureConverter\bin\Debug\TemparatureConverter.xml
+C:\Users\Anjan\source\repos\TemparatureConverter\TemparatureConverter\obj\Debug\TemparatureConverter.vbprojAssemblyReference.cache
+C:\Users\Anjan\source\repos\TemparatureConverter\TemparatureConverter\obj\Debug\TemparatureConverter.Form1.resources
+C:\Users\Anjan\source\repos\TemparatureConverter\TemparatureConverter\obj\Debug\TemparatureConverter.Resources.resources
+C:\Users\Anjan\source\repos\TemparatureConverter\TemparatureConverter\obj\Debug\TemparatureConverter.vbproj.GenerateResource.cache
+C:\Users\Anjan\source\repos\TemparatureConverter\TemparatureConverter\obj\Debug\TemparatureConverter.vbproj.CoreCompileInputs.cache
+C:\Users\Anjan\source\repos\TemparatureConverter\TemparatureConverter\obj\Debug\TemparatureConverter.exe
+C:\Users\Anjan\source\repos\TemparatureConverter\TemparatureConverter\obj\Debug\TemparatureConverter.xml
+C:\Users\Anjan\source\repos\TemparatureConverter\TemparatureConverter\obj\Debug\TemparatureConverter.pdb
